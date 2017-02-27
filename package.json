@@ -4,7 +4,7 @@
     "description": "vue-admin-boilerplate",
     "main": "index.js",
     "scripts": {
-        "test": "webpack --config webpack.config.js -w"
+        "webpack": "webpack --config webpack.config.js -w"
     },
     "repository": {
         "type": "git",
