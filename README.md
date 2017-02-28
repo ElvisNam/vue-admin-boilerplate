@@ -36,7 +36,7 @@ vue 管理系统-脚手架
 # 确保全局安装git、npm等基本应用工具
 
 # 下载代码
-git clone https://github.com/clouddisk/avalon-admin-boilerplate.git
+git clone https://github.com/clouddisk/vue-admin-boilerplate.git
 
 # 安装依赖：
 npm install
