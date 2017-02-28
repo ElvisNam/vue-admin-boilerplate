@@ -1,4 +1,4 @@
-import Vue from 'vue'
+import Vue from 'vue/dist/vue.js'
 import VueRouter from 'vue-router'
 
 Vue.use(VueRouter)
@@ -12,7 +12,7 @@ const routes = [{
 }]
 
 const router = new VueRouter({
-    routers
+    routes
 })
 
 const app = new Vue({
