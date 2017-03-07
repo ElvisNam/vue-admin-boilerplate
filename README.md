@@ -50,7 +50,7 @@ http://localhost:8008/index.html
 
 ## License
 
-本项目遵循ISC开源许可证
+本项目遵循MIT开源许可证
 
 
 
